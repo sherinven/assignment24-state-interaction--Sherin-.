@@ -1,4 +1,4 @@
-# assignment24-state-interaction--Sherin-.
+
 This project contains 7 React components demonstrating various state management and interaction concepts.
 
 ## Components Included:
