@@ -1,3 +1,4 @@
+# Assignment 4 - State & Interaction
 
 This project contains 7 React components demonstrating various state management and interaction concepts.
 
